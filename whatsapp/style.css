@@ -1,0 +1,475 @@
+.maincontainer{
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+    background-image : url(./image.png);
+    background-size: 100%;
+    margin-left: 500px;
+    overflow: auto;
+    width: 22%;
+    height: 500px;
+    border: 10px solid black;
+    border-radius: 70px;
+    position: relative;
+}
+.mainbar{
+    position: fixed;
+    width: 22%;
+    height: 60px;
+    padding-top: 0px;
+    background-color: green;
+    border-top-left-radius:60px;
+    border-top-right-radius:60px;
+    z-index: 1;
+}
+.icon1{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left:10px;
+    color: white;
+    font-size: 25px;
+}
+.icon2{
+    margin-left: 10px;
+    color: white;
+    display: inline-block;
+    font-size: 30px;
+}
+.name{
+    display: inline-block;
+    color: black;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.icon3{
+    display: inline-block;
+    margin-left: 35px;
+    color: white;
+    font-size: 20px;
+}
+.icon4{
+    display: inline-block;
+    margin-left: 10px;
+    color: white;
+    font-size: 20px;
+}
+.icon5{
+    display: inline-block;
+    margin-left: 10px;
+    color: white;
+    font-size: 20px;
+}
+.middlebar{
+    margin-top: 0px;
+}
+.firstmessage span{
+background-color:lightgrey;
+font-size: 15px;
+border-radius: 20px;
+padding-left: 5px;
+padding-right: 20px;
+padding-top: 5px;
+padding-bottom: 5px;
+margin-left: 196px;
+}
+p{
+    display: inline-block;
+    font-size:small;
+    color: darkblue;
+}
+.secondmessage span{
+    background-color:lightgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-bottom: 2px;
+    margin-left: 140px;
+}
+.thirdmessage span{
+    background-color:lightgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 144px;
+}
+.fourthmessage span{
+    background-color:lightgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 148px;
+}
+.fifthmessage span{
+    background-color:lightgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 35px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 10px;
+}
+.sixthmessage span{
+    background-color:lightgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 10px;
+}
+.seventhmessage span{
+    background-color:lightgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 10px;
+}
+.eightmessage span{
+    background-color:lightgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 10px;
+}
+.ninemessage span{
+    background-color:lightgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 167px;
+}
+.tenmessage span{
+    background-color:lightgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 106px;
+}
+.elevenmessage span{
+    background-color:lightgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 98px;
+}
+.twelvemessage span{
+    background-color:lightgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 10px;
+}
+.thirteenmessage span{
+    background-color:lightgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 10px;
+}
+.fourteenmessage span{
+    background-color:lightgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 10px;
+    margin-bottom: 100px;
+}
+.fifteenmessage span{
+    background-color:lightgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 10px;
+    margin-bottom: 50px;
+}
+.sixteenmessage span{
+    background-color:lightgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 151px;
+    margin-bottom: 100px;
+}
+.seventeenmessage span{
+    background-color:lightgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 75px;
+    margin-bottom: 100px;
+}
+.eighteenmessage span{
+    background-color:lightgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 183px;
+    margin-bottom: 100px;
+}
+.nineteenmessage span{
+    background-color:lightgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 10px;
+    margin-bottom: 100px;
+}
+.twentymessage span{
+    background-color:lightgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 10px;
+    margin-bottom: 100px;
+}
+.twentyonemessage span{
+    background-color:lightgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 10px;
+    margin-bottom: 100px;
+}
+.twentytwomessage span{
+    background-color:lightgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 10px;
+    margin-bottom: 100px;
+}
+.twentythreemessage span{
+    background-color:lightgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 155px;
+    margin-bottom: 100px;
+}
+.twentyfourmessage span{
+    background-color:lightgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 86px;
+    margin-bottom: 100px;
+}
+.twentyfifthmessage span{
+    background-color:lightgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 126px;
+    margin-bottom: 100px;
+}
+.twentysixthmessage span{
+    background-color:lightgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 10px;
+    margin-bottom: 100px;
+}
+.twentyseventhmessage span{
+    background-color:lightgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 10px;
+    margin-bottom: 100px;
+}
+.firstdate{
+    position: sticky;
+    top: 70px;
+    background-color: peachpuff;
+    padding: 6px;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-right: 110px;
+    color: black;
+    margin-top: 60px;
+    z-index: 1;
+}
+.seconddate{
+    position: sticky;
+    top: 70px;
+    background-color: peachpuff;
+    padding: 6px;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-right: 110px;
+    color: black;
+    margin-top: 0px;
+    z-index: 1;
+}
+.thirddate{
+    position: sticky;
+    top: 70px;
+    background-color: peachpuff;
+    padding: 6px;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-right: 110px;
+    color: black;
+    margin-top: 0px;
+    z-index: 1;
+}
+.fourthdate{
+    position: sticky;
+    top: 70px;
+    background-color: peachpuff;
+    padding: 6px;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-right: 110px;
+    color: black;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    z-index: 1;
+}
+.fifthdate{
+    position: sticky;
+    top: 70px;
+    background-color: peachpuff;
+    padding: 6px;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-right: 110px;
+    color: black;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    z-index: 1;
+}
+.fifthmessage,.sixthmessage,.seventhmessage,.eightmessage,.twelvemessage,.thirteenmessage,.fourteenmessage,.fifteenmessage,.nineteenmessage,.twentymessage,.twentyonemessage,.twentytwomessage,.twentysixthmessage{
+    margin-bottom: 25px;
+}
+.twentyseventhmessage{margin-bottom: 15px}
+
+.lastcontainer {
+    position: sticky;
+    bottom: 0px;
+    width: 90%;
+    height: 50px;
+    background-color: white;
+    border-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+    margin-left: 7px;
+    gap: 0px;
+    border: none;
+    z-index: 1;
+}
+
+.lastcontainer input {
+    flex: 1;
+    height: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    padding-left: 20px;
+}
+
+.symbol1{
+    margin-right: 5px;
+    padding-left: 0px;
+}
+.symbol2, .symbol3, .symbol4{
+    padding-left: 8px;
+    margin-right: 15px;
+    font-size: 20px;
+}
+.symbol2{
+    margin-left: -75px;
+    margin-right: 15px;
+    transform: rotate(45deg);
+}
+
+.symbol5{
+    margin-left: 8px;
+    margin-right: 17px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    border-radius: 50px;
+    padding-right: 5px;
+    background-color: green;
+}
+
+
